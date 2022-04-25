@@ -1,5 +1,5 @@
 {
-  "name": "Heroku-v2ray",
+  "name": "kdetr/kuyt",
   "description": "将v2ray部署在Heroku上",
   "keywords": [
     "v2ray VMess VLESS"
@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/Lbingyi/HerokuXray",
-  "repository": "https://github.com/Lbingyi/HerokuXray",
+  "website": "https://github.com/Lbingyi/kdetr/kuyt",
+  "repository": "https://github.com/Lbingyi/kdetr/kuyt",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
